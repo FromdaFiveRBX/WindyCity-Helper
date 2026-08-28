@@ -40,7 +40,7 @@ export const catalogItems: CatalogItem[] = [
     description:
       "Light sidearm for new players with fast draw speed, cheap ammo cost, and steady entry-level value for simple city jobs and everyday protection.",
     tags: ["Low recoil", "Fast draw"],
-    image: asset("canik.png"),
+    image: asset("p88p.png"),
     stats: { minDamage: 18, maxDamage: 28, range: 35, fireRate: 72, recoil: 20 },
   },
   {
